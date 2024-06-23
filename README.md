@@ -16,6 +16,10 @@ WebアプリやAPI、チャットアプリで開発できる。
 
 ### ワークロードの設定を進めていく
 
+## チャットボットを作成した時の画面キャプチャ
+
+![](./docs/img/1.png)
+
 ### 参考文献
 1. [Dify スタジオ](https://cloud.dify.ai/apps)
 2. [DifyをPC(自端末)にインストール](https://zenn.dev/acntechjp/articles/79e4b4abfb2112)
