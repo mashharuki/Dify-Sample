@@ -19,6 +19,19 @@ WebアプリやAPI、チャットアプリで開発できる。
 ## チャットボットを作成した時の画面キャプチャ
 
 ![](./docs/img/1.png)
+![](./docs/img/2.png)
+![](./docs/img/3.png)
+![](./docs/img/4.png)
+![](./docs/img/5.png)
+![](./docs/img/6.png)
+![](./docs/img/7.png)
+![](./docs/img/8.png)
+![](./docs/img/9.png)
+![](./docs/img/10.png)
+![](./docs/img/11.png)
+![](./docs/img/12.png)
+![](./docs/img/13.png)
+![](./docs/img/14.png)
 
 ### 参考文献
 1. [Dify スタジオ](https://cloud.dify.ai/apps)
