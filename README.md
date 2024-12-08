@@ -50,3 +50,4 @@ WebアプリやAPI、チャットアプリで開発できる。
 14. [Difyとは？何ができる？使い方や料金体系、商用利用について徹底解説！](https://www.ai-souken.com/article/what-is-dify)
 15. [AIエージェントのみでBPO 企業を作り上げる方法：Dify+Ollama+Llama3+Groqで顧客サポート窓口業務を完全自動化](https://zenn.dev/ippeisuzuki/articles/71971d747c101b)
 16. [GitHub - Dify](https://github.com/langgenius/dify)
+17. [Build With Gemini](https://ai.google.dev/gemini-api/docs?gad_source=1&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkXfGvBQQRe45AdEJ6jOqqmOGenLH3DEEzpFiHGSFYmaYS-R61EfbR4aAjiaEALw_wcB&hl=ja#node.js)
